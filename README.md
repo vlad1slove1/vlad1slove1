@@ -1,8 +1,4 @@
-Hi 👋 My name is Vladislav
-==========================
-
-junior frontend developer
--------------------------
+# Hi 👋 My name is Vladislav
 
 I've been learning frontend on Hexlet for about a year and a half
 - 🌍  I'm based in Kropotkin, Krasnodar region
@@ -29,6 +25,8 @@ I've been learning frontend on Hexlet for about a year and a half
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vlad1slove1/frontend-project-11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vlad1slove1/frontend-project-12" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+<div width="100%" align="center"><a href="https://github.com/vlad1slove1/frontend-project-11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  
+<div width="100%" align="center"><a href="https://github.com/vlad1slove1/frontend-project-12" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/vlad1slove1/drawBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=drawBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
