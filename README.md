@@ -4,7 +4,7 @@ I've been learning frontend on Hexlet for about a year and a half
 - 🌍  I'm based in Kropotkin, Krasnodar region
 - ✉️  You can contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
 - 🌱  Have production experience
-- 🧠  I'm learning React + Typescript
+- 🧠  I'm learning React / Typescript
 - ⚡  Want to participate in the development of cool web applications
 - 👯  Ready to hire!
 
