@@ -1,7 +1,7 @@
 # Hi 👋 My name is Vladislav
 
 I've been learning frontend on Hexlet for about a year and a half
-- 🌍  I'm based in Kropotkin, Krasnodar region
+- 🌍  I'm basing in Kropotkin, Krasnodar region
 - ✉️  You can contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
 - 🌱  Have production experience
 - 🧠  Mastering React / Typescript
