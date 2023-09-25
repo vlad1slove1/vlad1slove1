@@ -6,7 +6,7 @@ I'm a junior frontend-developer
 - 🌱  Have production experience
 - 🧠  Mastering React / Typescript
 - ⚡  Want to participate in the development of cool web applications
-- 👯  Ready to hire!
+- 👯  Looking for a job!
 
 ### Stack
 
