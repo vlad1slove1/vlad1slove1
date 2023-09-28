@@ -62,7 +62,7 @@ I'm a junior frontend-developer
 
 <p align="left">
   <a href="https://t.me/vlad1slove_rus" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" />
-  <a href="https://www.linkedin.com/in/vladislav-kishchenko-00b92b290/" target="_blank" rel="noreferrer"><img src="https://png2.cleanpng.com/sh/aa7aa4fa20f96b6b60fd6c5efafead74/L0KzQYm3U8IxN6ttiZH0aYP2gLBuTfxqdpxqfNt3LXzyd7E0gB9ueKZ5feQ2aXPyfsS0gwV0cZ9qiAU2c4nwcrFzTfxqdpxqfNt3LXnmf7A0VfFjOWg7TagBMHLkcYm1UcE6OWk3S6I6NUK0RYiCVsA3O2o7SpD5bne=/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab1765660baa8.1191823015215796063962.png" width="45" height="45" />
+  <a href="https://www.linkedin.com/in/vladislav-kishchenko-00b92b290/" target="_blank" rel="noreferrer"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=15&g=183&b=255" width="45" height="45" />
 </p>
 
 <b>My GitHub Stats</b>
