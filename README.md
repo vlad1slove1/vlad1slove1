@@ -25,7 +25,7 @@ I'm a junior frontend-developer
       <strong>Web</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
     </td>
   </tr>   
 
@@ -43,7 +43,7 @@ I'm a junior frontend-developer
       <strong>Frameworks</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,threejs,jest,jquery" />
+      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,threejs,jest" />
     </td>
   </tr>
         
