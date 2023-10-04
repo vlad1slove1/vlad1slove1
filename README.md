@@ -67,8 +67,7 @@ I'm a junior frontend-developer
 
 <b>My GitHub Stats</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1slove1&hide_progress=tru&theme=transparente)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad1slove1&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1slove1&layout=compact)
 
 ### Top Repositories
 
