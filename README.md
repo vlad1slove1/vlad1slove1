@@ -25,7 +25,7 @@ I'm a junior frontend-developer
       <strong>Web</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui" />
     </td>
   </tr>   
 
@@ -34,7 +34,7 @@ I'm a junior frontend-developer
       <strong>Bundlers</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=webpack,nextjs" />
+      <img src="https://skillicons.dev/icons?i=webpack,nextjs,docker" />
     </td>
   </tr>
         
@@ -52,7 +52,7 @@ I'm a junior frontend-developer
       <strong>DB's</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongo,mysql" />
+      <img src="https://skillicons.dev/icons?i=mongo,mysql,supabase" />
     </td>
   </tr>
 </table>
