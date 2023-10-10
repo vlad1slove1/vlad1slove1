@@ -34,7 +34,7 @@ I'm a junior frontend-developer
       <strong>Bundlers</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=webpack,nextjs,docker" />
+      <img src="https://skillicons.dev/icons?i=webpack,docker" />
     </td>
   </tr>
         
@@ -43,7 +43,7 @@ I'm a junior frontend-developer
       <strong>Frameworks</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,threejs,jest" />
+      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nextjs,threejs,jest" />
     </td>
   </tr>
         
