@@ -62,7 +62,7 @@ I'm a junior frontend-developer
 
 <p align="left">
   <a href="https://t.me/vlad1slove_rus" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" />
-  <a href="www.linkedin.com/in/vlad1slove/" target="_blank" rel="noreferrer"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=15&g=183&b=255" width="45" height="45" />
+  <a href="https://linkedin.com/in/vlad1slove/" target="_blank" rel="noreferrer"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=15&g=183&b=255" width="45" height="45" />
 </p>
 
 <b>My GitHub Stats</b>
@@ -72,9 +72,10 @@ I'm a junior frontend-developer
 ### Top Repositories
 
 <div width="100%" align="left">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-11)](https://github.com/anuraghazra/vlad1slove1/frontend-project-11)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-12)](https://github.com/anuraghazra/vlad1slove1/frontend-project-12)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=drawBot)](https://github.com/anuraghazra/vlad1slove1/drawBot)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=getmentor-frontend)](https://github.com/anuraghazra/vlad1slove1/getmentor-frontend)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=react-next-admin)](https://github.com/vlad1slove1/react-next-admin)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-11)](https://github.com/vlad1slove1/frontend-project-11)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-12)](https://github.com/vlad1slove1/frontend-project-12)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=drawBot)](https://github.com/vlad1slove1/drawBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=getmentor-frontend)](https://github.com/vlad1slove1/getmentor-frontend)
 </div>
