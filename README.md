@@ -16,7 +16,7 @@
 
 Let's code something awesome together! 💻✨
 
-### Stack
+## Stack
 
 <table>
   <tr>
@@ -66,13 +66,13 @@ Let's code something awesome together! 💻✨
 </table>
 
       
-### Socials
+## Socials
 
 <p align="left">
   <a href="https://t.me/vlad1slove_rus" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" />
   <a href="https://linkedin.com/in/vlad1slove/" target="_blank" rel="noreferrer"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=15&g=183&b=255" width="45" height="45" />
 </p>
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1slove1&layout=compact)
