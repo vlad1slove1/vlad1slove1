@@ -1,12 +1,20 @@
-# Hi 👋 My name is Vladislav
+# Hey there! 👋 I'm Vladislav
 
-I'm a junior frontend-developer
-- 🌍  Basing in Kropotkin, Krasnodar region
-- ✉️  You can contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
-- 🌱  Have production experience
-- 🧠  Mastering React / Typescript
-- ⚡  Want to participate in the development of cool web applications
-- 👯  Looking for a job!
+## About Me
+- 👨‍💻 Junior Frontend Developer
+- 🌍 Basing in Kropotkin, Krasnodar Krai, Russia
+- ✉️ Contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
+
+## Skills
+- 💻 Developing projects using JavaScript, TypeScript, React, and Redux
+- 🚀 Proficient in building dynamic and engaging web applications
+- 🧠 Mastering React and TypeScript
+- ⚡ Enthusiastic about contributing to innovative and impactful web development projects
+
+## Looking for Opportunities
+- 👯 Open to job opportunities
+
+Let's code something awesome together! 💻✨
 
 ### Stack
 
@@ -68,14 +76,3 @@ I'm a junior frontend-developer
 <b>My GitHub Stats</b>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1slove1&layout=compact)
-
-### Top Repositories
-
-<div width="100%" align="left">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=react-next-admin)](https://github.com/vlad1slove1/react-next-admin)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-11)](https://github.com/vlad1slove1/frontend-project-11)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=frontend-project-12)](https://github.com/vlad1slove1/frontend-project-12)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=drawBot)](https://github.com/vlad1slove1/drawBot)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlad1slove1&repo=getmentor-frontend)](https://github.com/vlad1slove1/getmentor-frontend)
-</div>
