@@ -6,7 +6,7 @@
 - ✉️ Contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
 
 ## Skills
-- 💻 Developing projects using JavaScript, TypeScript, React, and Redux
+- 💻 Developing projects using JavaScript, TypeScript, React, and Next
 - 🚀 Proficient in building dynamic and engaging web applications
 - 🧠 Mastering React and TypeScript
 - ⚡ Enthusiastic about contributing to innovative and impactful web development projects
