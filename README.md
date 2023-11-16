@@ -60,7 +60,7 @@ Let's code something awesome together! 💻✨
       <strong>DB's</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongo,mysql,supabase" />
+      <img src="https://skillicons.dev/icons?i=mongo,mysql,supabase,postgresql" />
     </td>
   </tr>
 </table>
