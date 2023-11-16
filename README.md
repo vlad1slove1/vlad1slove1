@@ -33,7 +33,7 @@ Let's code something awesome together! 💻✨
       <strong>Web</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui" />
+      <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,materialui" />
     </td>
   </tr>   
 
