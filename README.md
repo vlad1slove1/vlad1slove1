@@ -9,6 +9,7 @@
 - 💻 Developing projects using JavaScript, TypeScript, React, and Next
 - 🚀 Proficient in building dynamic and engaging web applications
 - 🧠 Mastering React and TypeScript
+- 📝 Learning Java and Spring Boot
 - ⚡ Enthusiastic about contributing to innovative and impactful web development projects
 
 ## Looking for Opportunities
@@ -24,7 +25,7 @@ Let's code something awesome together! 💻✨
       <strong>Main</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs" />
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" />
     </td>
   </tr>
 
@@ -51,7 +52,7 @@ Let's code something awesome together! 💻✨
       <strong>Frameworks</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nextjs,threejs,jest" />
+      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nextjs,threejs,jest,spring" />
     </td>
   </tr>
         
