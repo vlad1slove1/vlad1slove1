@@ -34,7 +34,7 @@ Let's code something awesome together! 💻✨
       <strong>Web</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,materialui" />
+      <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,materialui,figma" />
     </td>
   </tr>   
 
@@ -43,7 +43,7 @@ Let's code something awesome together! 💻✨
       <strong>Bundlers</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=webpack,docker" />
+      <img src="https://skillicons.dev/icons?i=webpack,docker,vite" />
     </td>
   </tr>
         
@@ -52,7 +52,16 @@ Let's code something awesome together! 💻✨
       <strong>Frameworks</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nextjs,threejs,jest,spring" />
+      <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nextjs,spring,nestjs" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Testing</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest,jupiter" />
     </td>
   </tr>
         
