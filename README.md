@@ -22,10 +22,19 @@ Let's code something awesome together! 💻✨
 <table>
   <tr>
     <td>
-      <strong>Main</strong>
+      <strong>Primary</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" />
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Secondary</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java" />
     </td>
   </tr>
 
