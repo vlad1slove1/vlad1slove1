@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Vladislav
 
 ## About Me
-- 👨‍💻 Frontend Developer
+- 👨‍💻 Fullstack developer
 - 🌍 Basing in Kropotkin, Krasnodar Krai, Russia
 - ✉️ Contact me at [vlad5114@gmail.com](mailto:vlad5114@gmail.com)
 
